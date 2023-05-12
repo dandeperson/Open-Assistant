@@ -174,7 +174,8 @@ oasst_export_eu:
   datasets:
     - oasst_export:
         lang: "en,es,de,fr"
-        input_file_path: 2023-03-27_oasst_research_ready_synth.jsonl.gz
+        input_file_path: oasst-data/oasst1/2023-04-12_oasst_ready.messages.jsonl.gz
+        # input_file_path: 2023-03-27_oasst_research_ready_synth.jsonl.gz
 
 oasst_export_latin_cyrillic:
   save_strategy: epoch

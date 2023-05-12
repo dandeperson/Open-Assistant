@@ -10,7 +10,7 @@ Here are some minimal commands to tun to whole pipeline on the collected data.
 1. First create the data path location.
 
 ```bash
-mkdir -p .cache
+mkdir -p .cachld
 mkdir -p .saved_models
 export DATA_PATH=$PWD/.cache
 export MODEL_PATH=$PWD/.saved_models
