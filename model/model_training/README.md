@@ -62,7 +62,7 @@ ar,de,fr,en,it,nl,tr,ru,ms,ko,ja,zh
 We can subsample the **training** data by passing either the `fraction` or
 `size` argument in the `configs/config.yml` file. Don't forget the additional
 colon ":" after the dataset name when doing this.
-
+`
 Example:
 
 ```
